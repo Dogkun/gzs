@@ -1,0 +1,59 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#xinxi {
+    border-radius: 15px;
+    margin: 0px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    top: 50%;
+    float: left;
+    border-radius: 4px;
+    border: 2px solid #fff;
+}
+
+#logo img {
+    height: 100%;
+    width: 100%;
+}
+
+
+#xinxi .jianjie {
+    display: inline-block;
+    margin: 5px 0px 20px 10px;
+    font-size: 56px;
+}
+
+.toux {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+.read_box{
+    background-color: rgb(196, 224, 255);
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    padding: 0px 0px 5px;
+}
+
+.read_box h1{
+    background-color: rgb(196, 224, 255);
+    margin: 0px 0px 0px 20px;
+    border-radius: 25px;
+}
+a{
+    color: black;
+    text-decoration: dashed;
+}
+
+a:hover{
+    color:rgb(77, 77, 211);
+}
+

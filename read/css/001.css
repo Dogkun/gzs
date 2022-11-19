@@ -1,0 +1,35 @@
+h1{
+    margin: 0px 0px 5px 0px;
+}
+
+.jianjie{
+    font-size: 13px;
+    color: rgb(116, 116, 116);
+}
+
+a{
+    text-decoration: dashed;
+    color: rgb(116, 116, 116);
+}
+
+a:hover{
+    color: rgb(99, 109, 238);
+}
+
+.wenz{
+    margin: 0px 150px;
+}
+
+.wenz p{
+    margin: 0;
+    text-indent: 2em;
+}
+
+.wenz a{
+    text-decoration: dashed;
+    color: rgb(0, 0, 0);
+}
+
+.wenz a:hover{
+    color: rgb(99, 109, 238);
+}
