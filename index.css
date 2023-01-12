@@ -2,7 +2,7 @@ body{
     background-color: blanchedalmond;
 }
 
-#xinxi {
+#ti {
     border-radius: 15px;
     margin: 0px;
 }
@@ -22,7 +22,7 @@ body{
 }
 
 
-#xinxi .jianjie {
+#ti .jianjie {
     display: inline-block;
     margin: 5px 0px 20px 10px;
     font-size: 56px;
